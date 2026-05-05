@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🌌 About Me:
 Full Stack Developer specializing in the MERN stack with a focus on<br>building scalable, highperformance web applications. Expert in<br>architecting RESTful APIs with Node.js/Express and creating dynamic,<br>responsive UIs with React and Next.js. Proven ability to manage<br>complex MongoDB schemas and optimize database performance.<br>Passionate about writing clean, maintainable code and delivering usercentric digital solutions.<br>
 
 
-## 🌐 Socials:
+## 🔗 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/m.hasnainhaider0/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.hasnainhaider/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnain31059@gmail.com) 
 
 # 💻 Tech Stack:
@@ -11,5 +11,3 @@ Full Stack Developer specializing in the MERN stack with a focus on<br>building 
 ![](https://github-readme-stats.shion.dev/api?username=m-hasnainhaider&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=m-hasnainhaider&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-hasnainhaider&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
