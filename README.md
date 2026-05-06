@@ -1,8 +1,5 @@
-<img src="https://img.magnific.com/free-vector/night-japanese-pond-cherry-tree-background_107791-28694.jpg?semt=ais_hybrid&w=740&q=80" width="100%" />
 ## 🌌 About Me:
-Full Stack Developer specializing in the MERN stack with a focus on<br>building scalable, highperformance web applications. Expert in<br>architecting RESTful APIs with Node.js/Express and creating dynamic,<br>responsive UIs with React and Next.js. Proven ability to manage<br>complex MongoDB schemas and optimize database performance.<br>Passionate about writing clean, maintainable code and delivering usercentric digital solutions.<br>
-
-
+Full Stack Developer specializing in the MERN stack with a focus on building scalable, high-performance web applications. Expert in architecting RESTful APIs with Node.js/Express and creating dynamic, responsive UIs with React and Next.js. Proven ability to manage complex MongoDB schemas and optimize database performance. Passionate about writing clean, maintainable code and delivering user-centric digital solutions.
 ## 🔗 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/m.hasnainhaider0/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.hasnainhaider/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnain31059@gmail.com) 
 
