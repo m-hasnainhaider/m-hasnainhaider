@@ -1,4 +1,5 @@
-# 🌌 About Me:
+<img src="https://img.magnific.com/free-vector/night-japanese-pond-cherry-tree-background_107791-28694.jpg?semt=ais_hybrid&w=740&q=80" width="100%" />
+## 🌌 About Me:
 Full Stack Developer specializing in the MERN stack with a focus on<br>building scalable, highperformance web applications. Expert in<br>architecting RESTful APIs with Node.js/Express and creating dynamic,<br>responsive UIs with React and Next.js. Proven ability to manage<br>complex MongoDB schemas and optimize database performance.<br>Passionate about writing clean, maintainable code and delivering usercentric digital solutions.<br>
 
 
