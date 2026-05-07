@@ -1,3 +1,5 @@
+<P><img src="./assets/images/header_.png" alt=""></P>
+
 ## 🌌 About Me:
 Full Stack Developer specializing in the MERN stack with a focus on building scalable, high-performance web applications. Expert in architecting RESTful APIs with Node.js/Express and creating dynamic, responsive UIs with React and Next.js. Proven ability to manage complex MongoDB schemas and optimize database performance. Passionate about writing clean, maintainable code and delivering user-centric digital solutions.
 ## 🔗 Socials:
