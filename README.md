@@ -1,5 +1,3 @@
-
-<img width=100% title="" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=        &fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 ## 🌌 About Me:
 Full Stack Developer specializing in the MERN stack with a focus on building scalable, high-performance web applications. Expert in architecting RESTful APIs with Node.js/Express and creating dynamic, responsive UIs with React and Next.js. Proven ability to manage complex MongoDB schemas and optimize database performance. Passionate about writing clean, maintainable code and delivering user-centric digital solutions.
 ## 🔗 Socials:
