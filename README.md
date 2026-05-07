@@ -10,5 +10,5 @@ Full Stack Developer specializing in the MERN stack with a focus on building sca
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=m-hasnainhaider&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=m-hasnainhaider&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-hasnainhaider&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-hasnainhaider&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
